@@ -38,5 +38,5 @@ function calculateBuildableArea(plotTotalSqFt, setbacks) {
 }
 
 // Example Usage:
-console.log(calculateBuildableArea(1800, { frontM: 1.5, backM: 1, sideM: 1 })); // Output: 1142.12
-console.log(calculateBuildableArea(1800, { frontM: 1, backM: .5, sideM: .5 })); // Output: 1468.24
+console.log(calculateBuildableArea(1800, { frontM: 1.5, backM: 1, sideM: 1 }));
+console.log(calculateBuildableArea(1800, { frontM: 1, backM: .5, sideM: .5 }));
